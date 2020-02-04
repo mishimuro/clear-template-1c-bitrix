@@ -1,7 +1,7 @@
 <?
 $arTemplate = array (
   'NAME' => 'Шаблон',
-  'DESCRIPTION' => '',
+  'DESCRIPTION' => ' clear-template-1c-bitrix ',
   'SORT' => 100,
   'TYPE' => '',
 );
